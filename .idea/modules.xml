@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaP Inheritence-1.iml" filepath="$PROJECT_DIR$/JavaP Inheritence-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumCalculator/SumCalculator.iml" filepath="$PROJECT_DIR$/SumCalculator/SumCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/src1/src1.iml" filepath="$PROJECT_DIR$/src1/src1.iml" />
     </modules>
   </component>

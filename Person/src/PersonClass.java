@@ -20,8 +20,7 @@ public class PersonClass {
     }
 
     public void setAge(int age) {
-        if(age < 0 || age > 100)
-        {
+        if (age < 0 || age > 100) {
             this.age = 0;
             return;
         }
@@ -32,16 +31,14 @@ public class PersonClass {
     private String lastName;
     private int age;
 
-    public boolean isTeen()
-    {
+    public boolean isTeen() {
         return (this.age > 12 && this.age < 20);
     }
 
-    public String getFullName()
-    {
-        if(this.firstName.isEmpty() && !this.lastName.isEmpty()) return lastName;
-        else if(this.firstName.isEmpty() && this.lastName.isEmpty()) return "";
+    public String getFullName() {
+        if (this.firstName.isEmpty() && !this.lastName.isEmpty()) return lastName;
+        else if (this.firstName.isEmpty() && this.lastName.isEmpty()) return "";
         else if (!this.firstName.isEmpty() && this.lastName.isEmpty()) return firstName;
-        else return firstName+" "+lastName;
+        else return firstName + " " + lastName;
     }
 }
