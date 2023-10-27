@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cylinder65/Cylinder65.iml" filepath="$PROJECT_DIR$/Cylinder65/Cylinder65.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaP Inheritence-1.iml" filepath="$PROJECT_DIR$/JavaP Inheritence-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point67/Point67.iml" filepath="$PROJECT_DIR$/Point67/Point67.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoolArea68/PoolArea68.iml" filepath="$PROJECT_DIR$/PoolArea68/PoolArea68.iml" />
       <module fileurl="file://$PROJECT_DIR$/Students/Students.iml" filepath="$PROJECT_DIR$/Students/Students.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumCalculator/SumCalculator.iml" filepath="$PROJECT_DIR$/SumCalculator/SumCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallArea/WallArea.iml" filepath="$PROJECT_DIR$/WallArea/WallArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/src1/src1.iml" filepath="$PROJECT_DIR$/src1/src1.iml" />
     </modules>
   </component>
