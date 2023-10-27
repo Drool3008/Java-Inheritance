@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexNumber36/ComplexNumber36.iml" filepath="$PROJECT_DIR$/ComplexNumber36/ComplexNumber36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition73/Composition73.iml" filepath="$PROJECT_DIR$/Composition73/Composition73.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" filepath="$PROJECT_DIR$/ConstructorChallenge/ConstructorChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cylinder65/Cylinder65.iml" filepath="$PROJECT_DIR$/Cylinder65/Cylinder65.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaP Inheritence-1.iml" filepath="$PROJECT_DIR$/JavaP Inheritence-1.iml" />
