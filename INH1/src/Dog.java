@@ -57,7 +57,12 @@ public class Dog extends Animal{
     }
     public void makeSomeNoise()
     {
-
+        if(type == "Wolf")
+        {
+            System.out.println("Ow woooo!");
+        }
+        bark();
+        System.out.println();
     }
 
 }

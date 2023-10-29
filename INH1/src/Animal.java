@@ -1,7 +1,7 @@
 public class Animal {
-    String type;
-    String size;
-    double weight;
+    protected String type;
+    private String size;
+    private double weight;
 
     public Animal() {
     }
